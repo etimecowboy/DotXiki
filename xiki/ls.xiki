@@ -1,0 +1,34 @@
+> @xiki .Shell action for navigating files
+$ ls
+  |:anything
+
+!.#
+! # This shell action lets you expand the output of
+! # the ls command, like this:
+! #
+! # $ ls
+! #   : etc/
+! #   : home/
+! #     : craig/
+! #     : guest/
+! #
+!
+! # "$ ls", so change "|..." lines to ":..." lines...
+!
+! if args == []
+!   return "|\n| This action lets you expand the output of the 'ls' shell command.\n|" if ! shell_output
+!   return shell_output.gsub(/^\|/, ':')
+! end
+!
+! path = args.map{|o| o.sub(/^: /, '')}.join("/")
+!
+! # ": dir" line passed...
+!
+! if File.directory? path
+!   return Shell.command("ls -p '#{path}/'").quoted
+! end
+!
+! View.open path
+! ""   # Blank string means we handled
+! # Shell.command("cat '#{path}'").snippet
+!

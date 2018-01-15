@@ -1,0 +1,315 @@
+> ls
+$ ls
+  | etc/
+    :
+    : No shell action is installed. Type ^S on the shell command
+    : above to search for one on XikiHub. Or type ^O here:
+      :
+      : No shell action is installed. Type ^S on the shell command
+      : above to search for one on XikiHub. Or type ^O here:
+        :
+        : No shell action is installed. Type ^S on the shell command
+        : above to search for one on XikiHub. Or type ^O here:
+        :
+        = do it for me/
+      :
+      = do it for me/
+    :
+    = do it for me/
+
+
+q
+
+
+> recent
+$ 
+  * recent/
+    $ xsh
+    $ xsh --tutorial
+    curl -L https://xiki.com/install_xsh -o ~/install_xsh; bash ~/install_xshcurl -L https://xiki.com/install_xsh -o ~/install_xsh; bash ~/install_xshcurl -L https://xiki.com/install_xsh -o ~/install_xsh; bash ~/install_xshcurl -L https://xiki.com/install_xsh -o ~/install_xsh; bash ~/install_xsh$ exit
+    $ matlab --version
+    $ which matlab
+    $ su
+    $ sudo passwd root
+    $ et
+    $ ls -la
+    $ cd Desktop/
+    $ ls
+    $ cd
+    $ mv ubuntu-16.04.3-server-amd64.iso.1 ubuntu-16.04.3-server-amd64.iso
+    $ mv ubuntu-16.04.3-server-amd64.iso ubuntu-16.04.3-server-amd64.iso
+    $ rm ubuntu-16.04.3-server-amd64.iso
+    $ ls -la ubuntu-16.04.3-server-amd64.iso*
+    $ wget http://mirrors.hust.edu.cn/ubuntu-releases/16.04.3/ubuntu-16.04.3-server-amd64.iso
+    $ wget http://releases.ubuntu.com/16.04.3/ubuntu-16.04.3-server-amd64.iso
+    $ cd Downloads/
+    $ pip -v
+    $ which ipython
+    $ which pip3
+    $ sudo aptitude install mc
+    $ sudo aptitude mc
+    $ em
+    $ pkill -TERM emacs
+    $ nvidia-smi
+    $ nvcc --version
+    $ sudo shutdown -h now
+    $ nmon
+    $ rm -rf ~/.emacs.d/.cache
+    $ sudo iftop
+    $ iftop
+    $ sudo aptitude install iftop
+    $ htop
+    $ tmux
+    $ rm -rf .emacs.d/.cache
+    $ git clone --de
+    $ rm -rf melpa/
+    $ cd ..
+    $ cd packages/
+    $ cd .emacs.d/.cache/quelpa/
+    $ rm -rf quelpa/
+    $ du -h .
+    $ cd melpa/
+    $ rm -rf .emacs.d/.cache/quelpa/packages/evil-unimpaired-0.1pre0.20180107.00816.el
+    $ git status
+    $ cd src/DotFiles-Linux/
+    $ psensor&
+    $ xrdb .Xresources
+    $ ls -la .emacs.d
+    $ et .tmux.conf
+    $ git push
+    $ git pull
+    $ git commit -m "Enable mouse for tmux(version 1.9 and 2.1)."
+    $ git add .
+    $ git diff
+    $ git commit -m "Merge configure on sony s13."
+    $ git checkout master
+    $ cd snippets/
+    $ git push origin master
+    $ git commit -m "Minor changes."
+    $ git commit -t "Minor changes."
+    $ git add my-lisps/init/xy-rcroot-env.el
+    $ git diff my-lisps/init/xy-rcroot-env.el
+    $ git add my-lisps/init/xy-rc-auctex.el
+    $ git statu
+    $ rm -rf elpa_old/
+    $ git reset
+    $ git diff my-lisps/init/xy-rc-auctex.el
+    $ cd .emacs.d
+    $ sudo apt-get autoremove --purge
+    $ sudo apt-get install smbfs
+    $ sudo system-config-samba
+    $ system-config-samba
+    $ emacs25 -Q
+    $ emacs -Q -t
+    $ emacs -q -t ./.smbc/
+    $ sudo emacs -q /etc/samba/smb.conf
+    $ ssh yangxin@172.19.134.88
+    $ ranger --version
+    $ im-config
+    $ ifconfig
+    $ tmux kill-session
+    $ man tmux
+    $ tmux --kill-session
+    $ tmux --kill
+    $ tmux --version
+    $ rm -rf org-plus-contrib-20170210/
+    $ rm -rf org-20170210
+    $ cd .emacs.d/elpa/
+    $ ssh 192.168.3.8
+    $ ssh zboxum
+    $ sudo ./VMware-Workstation-Full-12.5.2-4638234.x86_64.bundle
+    $ emacs&
+    $ rm ~/.emacs.d/my-lisps/init/xy-rc-utils.elc
+    $ rm ~/.emacs.d/my-lisps/init/xy-rcroot-env.elc
+    $ git submodule update
+    $ git pull origin master
+    $ cd ~/.emacs.d/
+    $ which emacs
+    $ emacs25 --debug-init
+    $ rm -rf ~/.emacs.d/elpa/org-plus-contrib-20170210/
+    $ sudo add-apt-repository ppa:kelleyk/emacs
+    $ emacs --debug-init
+    $ rm *.elc
+    $ cd dired+-20170221.1620/
+    $ cd bookmark+-20170312.1135/
+    $ rm loaddefs@\!home\!xin\!.emacs.d\!my-lisps\!init.el
+    $ emacs
+    $ sudo tlmgr -gui
+    $ sudo shutdown -r now
+    $ man parole
+    $ man ranger
+    $ cd ~/src/DotFiles-Linux/
+    $ smbc
+    $ matlab&
+    $ matlab
+    $ matlav
+    $ ./install
+    $ cd .fzf
+    $ mousepad install
+    $ et install
+    $ cd .fzf/
+    $ cd ~/.fzf
+    $ ./intall
+    $ m
+    $ /opt/Scratch\ 2/bin/Scratch\ 2
+    $ find . -name *cratch*
+    $ cd .local/share/applications/
+    $ git gui
+    $ man passwd
+    $ sudo ./adobe-air.sh
+    $ ./adobe-air.sh
+    $ git pull origin  master
+    $ cd org
+    $ cd emacs
+    $ ec
+    $ emacs -q
+    $ eq
+    $ ranger
+    $ sudo alsa resume
+    $ sudo alsa suspend
+    $ google-chrome
+    $ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    $ alsamixer
+    $ ln -s /home/xin/src/fzf/ .fzf
+    $ cd src/fzf/
+    $ update-desktop-database ~/.local/share/applications/
+    $ git clone --depth 1 https://github.com/junegunn/fzf.git fzf
+    $ cd ~/src
+    $ ln -s /home/xin/src/DotFiles-Linux/.local/share/applications/MATLAB.desktop MATLAB.desktop
+    $ git submodule init
+    $ sudo add-apt-repository ppa:ubuntu-elisp/ppa
+    $ xfce4-settings-manager
+    $ sudo chown xin:xin /media/xin/USB-DB
+    $ ln -s /media/xin/USB-Work/reading_notes  ~/reading_notes
+    $ ln -s /media/xin/USB-Work/research  ~/research
+    $ ln -s /media/xin/USB-Work/wiki/  ~/wiki
+    $ ln -s /media/xin/USB-Work/work  ~/work
+    $ ln -s /media/xin/USB-Work ~/work
+    $ sudo dpkg --configure -a
+    $ muxk
+    $ mux monitor
+    $ aumix
+    $ cmus
+    $ mc
+    $ thunar ./&
+    $ cd bin/
+    $ cd /usr/local/MATLAB/R2016b/bin/
+    $ matlab &
+    $ java -v
+    $ texdoctk
+    $ urxvt --version
+    $ urxvt -v
+    $ man mex
+    $ sh ./matlab_links.sh
+    $ sudo add-apt-repository ppa:dr-graef/pd-l2ork.xenial
+    $ sudo update-grub
+    $ uname -a
+    $ test -d /sys/firmware/efi && echo efi || echo bios
+    $ mousepad .bashrc
+    $ bash makelinks.sh
+    $ emacs -q makelinks.sh
+    $ ./makelinks.sh
+    $ chmod +x makelinks.sh
+    $ ln -s /home/xin/Dropbox/emacs /home/xin/emacs
+    $ trash *.orig
+    $ rm *.orig
+    $ sudo cp -r truetype /usr/local/share/fonts/
+    $ sudo cp -r bitmap /usr/local/share/fonts/
+    $ sudo cp bitmap /usr/local/share/fonts/
+    $ if [ -d "$myDir" ]; then trash "$myDir" fi; ln -s "$srcDir""$dirName" "$myDir";
+    $ myDir=~/"$dirName"
+    $ dirName=".config/ranger"
+    $ if [ -d "$myDir" ]; then trash "$myDir"; fi
+    $ if [ -d "$myDir" ]; then   rm -rf "$myDir"; fi
+    $ "$srcDir"\/"$fileName"
+    $ "$srcDir"/"$fileName"
+    $ "$srcDir""$fileName"
+    $ srcDir="/home/xin/src/DotFiles-Linux"
+    $ srcDir="/home/xin/src/DotFiles-Linux/"
+    $ $myDir
+    $ mousepad makelinks.sh
+    $ cd DotFiles-Linux/
+    $ cd DotFile-Linux
+    $ cd src/
+    $ xrdb ~/.Xresources
+    $ sh makelinks.sh
+    $ xclip -sel clip < ~/.ssh/id_rsa.pub
+    $ sudo apt-get install xclip
+    $ ssh-add ~/.ssh/id_rsa
+    $ eval "$(ssh-agent -s)"
+    $ ssh-keygen -t rsa -b 4096 -C "etimecowboy@gmail.com"
+    $ /usr/local/MATLAB/R2016b/bin/matlab
+    $ sudo cp license_standalone.lic  /usr/local/MATLAB/R2016b/licenses/license_standalone.lic
+    $ sh makelinks.sh_new
+    $ git commit -c "Minor fixes for makelinks.sh"
+    $ git commit -C "Minor fixes."
+    $ sh ./makelinks.sh
+    $ sh testlinks.sh
+    $ cd "$HOME"
+    $ git clone git@github.com:etimecowboy/DotFiles-Linux.git
+    $ emacsclient -tc
+    $ emacsclient-tc
+    $ emacs -daemon
+    $ git commit -C "Change makelinks.sh"
+    $ man git commit
+    $ git commit -c "Change makelinks.sh"
+    $ emacsclient -tc makelinks.sh
+    $ sh ./makelinks.sh_new
+    $ ls -la ~
+    $ rm -rf ~/.gitconfig
+    $ rm -rf ~/.urxvt
+    $ gitk
+    $ git -gui
+    $ git -gio
+    $ rm -rf .urxvt/
+    $ rm ~/.Xresources* ~/.bash* ~/.profile* ~/.fbtermrc* ~/.urxvt* ~/.tmux.conf* ~/.latexmkrc*
+    $ mousepad
+    $ emacs -tc
+    $ emacs --daemon
+    $ ln -s /home/xin/src/DotEmacs /home/xin/.emacs.d
+    $ git clone git@github.com:etimecowboy/DotEmacs.git
+    $ ssh -T git@github.com
+    $ rm -rf *.orig
+    $ sudo apt-get install trash-cli
+    $ rm ~/.Xresources
+    $ rm .latexmkrc
+    $ rm .bash*
+    $ rm .gitconfig
+    $ rm .fbtermrc
+    $ rm .profile*
+    $ rm .Xresources
+    $ rm .urxvt
+    $ rm .tmux*
+    $ rm .tmux.conf
+
+
+> xsh
+xsh/setup
+  | Welcome to xsh (Xiki Shell)!
+  |
+  1. Use the up and down arrow keys to move your cursor to an item below.
+  2. Then type Ctrl+O to open (it will perform the setup).
+  |
+  - default setup
+    |
+    | > Xsh setup was successful!
+    |
+    | Do the following steps to reload the shell config in any open
+    | terminal windows. Then you'll be able to type 'xsh' at any
+    | shell prompt.
+    |
+    1. Type Ctrl+Q to quit xsh
+    2. Follow the steps that appear
+    |
+    | Xsh is alpha at this point. Experiment, but be careful!
+    |
+    |
+  |
+  | The default setup remaps several key shortcuts in bash (or zsh),
+  | enables mouse support, downloads some default xiki actions to
+  | get you started, and enables searching on xiki.com.
+  |
+  + details about default setup
+  + alternate setup
+
+
